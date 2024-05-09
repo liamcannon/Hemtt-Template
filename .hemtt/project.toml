@@ -1,0 +1,33 @@
+name = "Your mod name"
+author = "Your Name"
+prefix = "tag"
+mainprefix = "z"
+
+[version]
+path = "addons/main/script_version.hpp"
+git_hash = 0 # Disable git hash versioning
+
+[files]
+include = [
+    "mod.cpp",
+    "README.md",
+    "meta.cpp",
+    "LICENSE"
+]
+
+exclude = [
+    "*.psd" # Exclude all PSD files
+]
+
+[properties]
+author = "Your Name"
+
+[hemtt.launch]
+workshop = [
+    "463939057", # ACE3's Workshop ID | Include other workshop ids here
+]
+
+presets = []
+dlc = []
+optionals = []
+parameters = []

@@ -1,0 +1,17 @@
+*.pbo
+.hemttout
+hemtt
+hemtt.exe
+*.biprivatekey
+*.cache
+ArmaScriptCompiler.exe
+*.sqfc
+*.code-workspace
+*.swp
+*.swo
+release/*
+releases/*
+extensions/vcproj32/*
+extensions/vcproj64/*
+*.zip
+.vscode/*
