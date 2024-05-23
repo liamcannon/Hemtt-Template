@@ -4,6 +4,12 @@
 
 This template assumes a project structure like `P:/z/{Project Name}`. While Hemtt does not require a P drive I recommend it to save yourself a headache down the line.
 
+In this template I've included a few things to help you get started. The `example` folder is a simple example of a project structure. The `tools` folder contains a bat file to install Hemtt. The `.hemtt\project.toml` file is a template for your project configuration. 
+
+For more information on Hemtt check out the [Hemtt Documentation](https://brettmayson.github.io/HEMTT/).
+
+GitHub: [Hemtt](https://github.com/BrettMayson/HEMTT)
+
 ## P Drive
 
 If you do not already have a P drive you can mount one using Arma 3 Tools or Mikeros Tools Arma3P. You can also use subst to create a virtual drive.
