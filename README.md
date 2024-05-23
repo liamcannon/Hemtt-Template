@@ -2,9 +2,9 @@
 
 ## Intro
 
-This template assumes a project structure like `P:/z/{Project Name}`. While Hemtt does not require a P drive I recommend it to save yourself a headache down the line.
-
 In this template I've included a few things to help you get started. The `example` folder is a simple example of a project structure. The `tools` folder contains a bat file to install Hemtt. The `.hemtt\project.toml` file is a template for your project configuration. 
+
+This template assumes a project structure like `P:/z/{Project Name}`. While Hemtt does not require a P drive I recommend it to save yourself a headache down the line.
 
 For more information on Hemtt check out the [Hemtt Documentation](https://brettmayson.github.io/HEMTT/).
 
@@ -61,3 +61,6 @@ To build the project open your terminal and navigate to your project folder. Run
 
 This will build your project and output the pbo files to the `P:\z\TAG\.hemttout\build` folder.
 
+#
+
+*Last Updated: 2024-05-23*
