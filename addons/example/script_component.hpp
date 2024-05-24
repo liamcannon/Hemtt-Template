@@ -1,6 +1,6 @@
 #define COMPONENT exmaple
 #define COMPONENT_BEAUTIFIED Example
-#include "\z\TAG\addons\example\script_mod.hpp"
+#include "\z\TAG\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL
 #define DISABLE_COMPILE_CACHE
