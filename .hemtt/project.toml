@@ -15,6 +15,10 @@ include = [
     "LICENSE"
 ]
 
+# uncommenting this will ignore the include folder and check against your P: drive
+# [hemtt.build]
+# pdrive = "require"
+
 exclude = [
     "*.psd" # Exclude all PSD files
 ]
